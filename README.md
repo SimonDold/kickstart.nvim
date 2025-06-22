@@ -1,3 +1,21 @@
+# My Fork
+
+This is my Fork of *kickstart.nvim*.
+
+<details><summary> Reminder Notes </summary>
+
+## Disclaimer
+    These Notes are not ordered nor complete but only for my convenience collected here.
+    Some of them might be wrong or imprecice.
+
+### What keymaps are available right now?
+    In a telescope window `<c-/>`
+
+### Mason
+    `:Mason` to add new LSP servers
+
+</details>
+
 # kickstart.nvim
 
 ## Introduction
@@ -91,7 +109,7 @@ git clone https://github.com/SimonDold/kickstart.nvim.git "%localappdata%\nvim"
 If you're using `powershell.exe`
 
 ```
-git clone https://github.com/Simon/kickstart.nvim.git "${env:LOCALAPPDATA}\nvim"
+git clone https://github.com/SimonDold/kickstart.nvim.git "${env:LOCALAPPDATA}\nvim"
 ```
 
 </details>
